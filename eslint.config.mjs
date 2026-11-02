@@ -40,7 +40,7 @@ export default antfu(
       'cli/',
       'expo-env.d.ts',
       'migration/*',
-      'uniwind-types.d.ts'
+      'uniwind-types.d.ts',
     ],
   },
 
